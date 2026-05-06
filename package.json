@@ -1,1 +1,11 @@
-
+{
+  "name": "nonna-bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.x",
+    "dotenv": "...",
+    "mongoose": "...",
+    "rss-parser": "..."
+  }
+}
